@@ -1,0 +1,12 @@
+# Utils - Funciones utilitarias puras
+#
+# Funciones helper de JavaScript/TypeScript que no dependen de Vue.
+# Lógica pura, sin estado, sin efectos secundarios.
+#
+# Ejemplos:
+# - formatDate.ts (formatear fechas)
+# - validateEmail.ts (validar emails)
+# - constants.ts (constantes de la app)
+# - helpers.ts (funciones auxiliares)
+#
+# Uso: import { formatDate } from '~/utils/formatDate'

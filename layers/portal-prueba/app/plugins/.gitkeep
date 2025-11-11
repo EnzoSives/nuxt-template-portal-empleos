@@ -1,0 +1,11 @@
+# Plugins - Extensiones de Vue/Nuxt
+#
+# Código que se ejecuta antes de que la aplicación Vue se monte.
+# Útiles para configurar librerías externas, inyección de dependencias.
+#
+# Ejemplos:
+# - vuetify.client.ts (configurar Vuetify)
+# - api.client.ts (configurar cliente HTTP)
+# - analytics.client.ts (configurar analytics)
+#
+# Se ejecutan automáticamente al iniciar la app

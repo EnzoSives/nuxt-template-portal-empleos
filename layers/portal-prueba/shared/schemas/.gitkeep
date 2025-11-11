@@ -1,0 +1,13 @@
+# Shared Schemas - Esquemas de validación
+#
+# Esquemas de validación que se usan tanto en cliente como servidor.
+# Definiciones de estructura de datos, validaciones, transformaciones.
+# Compatible con librerías como Zod, Joi, Yup, etc.
+#
+# Ejemplos:
+# - user.schema.ts (esquema de validación de usuario)
+# - product.schema.ts (esquema de validación de producto)
+# - api.schema.ts (esquemas de respuesta de API)
+# - form.schema.ts (esquemas de formularios)
+#
+# Uso: import { userSchema } from '~/shared/schemas/user.schema'

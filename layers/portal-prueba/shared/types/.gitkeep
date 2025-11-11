@@ -1,0 +1,12 @@
+# Shared Types - Tipos TypeScript compartidos
+#
+# Definiciones de tipos que se usan tanto en cliente como servidor.
+# Interfaces, tipos, enums compartidos entre frontend y backend.
+#
+# Ejemplos:
+# - User.ts (interfaz de usuario)
+# - ApiResponse.ts (respuesta de API)
+# - Product.ts (interfaz de producto)
+# - enums.ts (enumeraciones)
+#
+# Uso: import type { User } from '~/shared/types/User'

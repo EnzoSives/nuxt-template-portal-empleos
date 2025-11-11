@@ -1,0 +1,11 @@
+# Layouts - Diseños globales para páginas
+#
+# Plantillas que envuelven las páginas y proporcionan estructura común.
+# Se aplican automáticamente o se pueden especificar en cada página.
+#
+# Ejemplos:
+# - default.vue (layout por defecto)
+# - admin.vue (layout para admin)
+# - auth.vue (layout para autenticación)
+#
+# Uso: definePageMeta({ layout: 'admin' })

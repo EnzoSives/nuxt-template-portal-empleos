@@ -1,0 +1,12 @@
+# Content - Contenido estático (opcional)
+#
+# Archivos de contenido en Markdown, JSON, YAML.
+# Útil para blogs, documentación, páginas de contenido.
+# Requiere @nuxt/content module.
+#
+# Ejemplos:
+# - blog/post-1.md (artículo de blog)
+# - docs/getting-started.md (documentación)
+# - pages/about.json (contenido de página)
+#
+# Uso: <ContentDoc path="/blog/post-1" />

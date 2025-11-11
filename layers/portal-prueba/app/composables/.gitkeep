@@ -1,0 +1,11 @@
+# Composables - Lógica reutilizable con API de Vue
+#
+# Funciones que usan la API de composición de Vue (ref, reactive, computed, etc.)
+# Se auto-importan automáticamente.
+#
+# Ejemplos:
+# - useAuth() - manejo de autenticación
+# - useCart() - lógica del carrito
+# - useApi() - llamadas a APIs
+#
+# Uso: const { user, login } = useAuth()

@@ -1,0 +1,10 @@
+# Assets - Recursos sin compilar
+#
+# Este directorio contiene archivos que necesitan ser procesados por Nuxt:
+# - Imágenes (PNG, JPG, SVG)
+# - Fuentes (TTF, WOFF, WOFF2)
+# - Estilos SCSS/SASS
+# - Archivos de audio/video
+#
+# Nuxt procesará automáticamente estos archivos durante el build.
+# Ejemplo: ~/assets/images/logo.png

@@ -1,0 +1,12 @@
+# Pages - Vistas que generan rutas automáticamente
+#
+# Cada archivo .vue en este directorio genera una ruta automáticamente.
+# Nuxt maneja el routing basado en la estructura de archivos.
+#
+# Ejemplos:
+# - index.vue → /
+# - about.vue → /about
+# - users/[id].vue → /users/:id
+# - admin/index.vue → /admin
+#
+# Uso: Navegación automática con <NuxtLink>

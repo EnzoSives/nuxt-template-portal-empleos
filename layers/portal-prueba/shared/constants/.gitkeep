@@ -1,0 +1,12 @@
+# Shared Constants - Constantes compartidas
+#
+# Valores constantes que se usan en toda la aplicación.
+# URLs, configuraciones, valores fijos.
+#
+# Ejemplos:
+# - api.ts (URLs de API)
+# - config.ts (configuraciones)
+# - messages.ts (mensajes de la app)
+# - routes.ts (rutas de la aplicación)
+#
+# Uso: import { API_BASE_URL } from '~/shared/constants/api'

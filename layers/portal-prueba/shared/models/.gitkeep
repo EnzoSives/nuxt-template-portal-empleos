@@ -1,0 +1,12 @@
+# Shared Models - Modelos de datos
+#
+# Clases o interfaces que representan entidades de negocio.
+# Modelos de datos, validaciones, transformaciones.
+#
+# Ejemplos:
+# - User.ts (modelo de usuario)
+# - Product.ts (modelo de producto)
+# - Order.ts (modelo de pedido)
+# - BaseModel.ts (modelo base)
+#
+# Uso: import { User } from '~/shared/models/User'

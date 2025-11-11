@@ -1,0 +1,11 @@
+# Middleware - Guards y lógica de rutas
+#
+# Funciones que se ejecutan antes de navegar a una página.
+# Útiles para autenticación, redirecciones, validaciones.
+#
+# Ejemplos:
+# - auth.ts (verificar autenticación)
+# - admin.ts (verificar permisos de admin)
+# - guest.ts (solo para usuarios no autenticados)
+#
+# Uso: definePageMeta({ middleware: 'auth' })

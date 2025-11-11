@@ -1,0 +1,11 @@
+# Components - Componentes Vue reutilizables
+#
+# Componentes Vue que se pueden usar en cualquier parte de la aplicación.
+# Nuxt los auto-importa automáticamente.
+#
+# Estructura recomendada:
+# - Button.vue (componente base)
+# - forms/Input.vue (componentes específicos)
+# - ui/Card.vue (componentes de UI)
+#
+# Uso: <Button>Click me</Button> (sin importar)

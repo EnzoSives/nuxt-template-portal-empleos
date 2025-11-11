@@ -1,0 +1,12 @@
+# Public - Archivos estáticos públicos
+#
+# Archivos que se sirven directamente sin procesamiento.
+# Accesibles desde la raíz del dominio.
+#
+# Ejemplos:
+# - favicon.ico (icono del sitio)
+# - robots.txt (directivas para buscadores)
+# - images/logo.png (imágenes públicas)
+# - files/document.pdf (archivos para descarga)
+#
+# Uso: /favicon.ico, /images/logo.png

@@ -1,0 +1,13 @@
+{
+  "name": "@nuxt-nuevo/auth-layer",
+  "version": "1.0.0",
+  "description": "Layer de autenticación para Nuxt 4",
+  "type": "module",
+  "dependencies": {
+    "@sidebase/nuxt-auth": "^0.8.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}

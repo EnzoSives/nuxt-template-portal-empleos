@@ -1,0 +1,79 @@
+{
+  "workbench.colorCustomizations": {
+    // Colores principales de Nuxt
+    "activityBar.background": "#00DC82",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBar.inactiveForeground": "#B3B3B3",
+    "activityBar.activeBackground": "#00B870",
+    "activityBar.activeForeground": "#FFFFFF",
+    "activityBar.border": "#00DC82",
+
+    // Barra de título
+    "titleBar.activeBackground": "#00DC82",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#00B870",
+    "titleBar.inactiveForeground": "#E0E0E0",
+
+    // Barra de estado
+    // "statusBar.background": "#00DC82",
+    // "statusBar.foreground": "#FFFFFF",
+    // "statusBar.noFolderBackground": "#00B870",
+    // "statusBar.debuggingBackground": "#FF6B6B",
+
+    // Panel lateral
+    // "sideBar.background": "#1A1A1A",
+    // "sideBar.foreground": "#E0E0E0",
+    // "sideBarTitle.foreground": "#00DC82",
+    // "sideBarSectionHeader.background": "#2D2D2D",
+    // "sideBarSectionHeader.foreground": "#B0B0B0",
+
+    // Editor
+    // "editor.background": "#1E1E1E",
+    // "editor.foreground": "#D4D4D4",
+    // "editorLineNumber.foreground": "#858585",
+    // "editorLineNumber.activeForeground": "#00DC82",
+
+    // Pestañas
+    // "tab.activeBackground": "#1E1E1E",
+    // "tab.activeForeground": "#D4D4D4",
+    // "tab.inactiveBackground": "#2D2D2D",
+    // "tab.inactiveForeground": "#858585",
+    // "tab.border": "#3C3C3C",
+    // "tab.activeBorder": "#00DC82",
+
+    // Terminal
+    // "terminal.background": "#0C0C0C",
+    // "terminal.foreground": "#D4D4D4",
+    // "terminal.ansiGreen": "#00DC82",
+
+    // Búsqueda
+    // "editor.findMatchBackground": "#FFD93D",
+    // "editor.findMatchHighlightBackground": "#FFD93D40",
+    // "editor.selectionBackground": "#00DC8230",
+
+    // Git
+    // "gitDecoration.modifiedResourceForeground": "#F6AD55",
+    // "gitDecoration.deletedResourceForeground": "#FC8181",
+    // "gitDecoration.untrackedResourceForeground": "#00DC82",
+    // "gitDecoration.ignoredResourceForeground": "#6A6A6A"
+  },
+
+  // Configuraciones adicionales para el tema
+  // "workbench.colorTheme": "Default Dark+",
+  // "editor.tokenColorCustomizations": {
+  //   "textMateRules": [
+  //     {
+  //       "scope": "string",
+  //       "settings": {
+  //         "foreground": "#00DC82"
+  //       }
+  //     },
+  //     {
+  //       "scope": "keyword",
+  //       "settings": {
+  //         "foreground": "#00B870"
+  //       }
+  //     }
+  //   ]
+  // }
+}

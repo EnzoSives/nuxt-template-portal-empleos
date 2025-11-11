@@ -1,0 +1,11 @@
+# Test E2E - Tests end-to-end
+#
+# Tests que simulan interacciones reales del usuario en el navegador.
+# Usan Playwright para pruebas completas de la aplicación.
+#
+# Ejemplos:
+# - homepage.test.ts (test completo de homepage)
+# - auth-flow.test.ts (flujo completo de autenticación)
+# - navigation.test.ts (navegación entre páginas)
+#
+# Configuración: Vitest con project 'e2e'

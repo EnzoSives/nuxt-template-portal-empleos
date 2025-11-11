@@ -1,0 +1,12 @@
+# Server API - Endpoints y rutas del servidor
+#
+# APIs REST que se ejecutan en el servidor usando Nitro.
+# Cada archivo .ts/.js genera un endpoint automáticamente.
+#
+# Ejemplos:
+# - users.get.ts → GET /api/users
+# - users.post.ts → POST /api/users
+# - users/[id].get.ts → GET /api/users/:id
+# - auth/login.post.ts → POST /api/auth/login
+#
+# Uso: $fetch('/api/users') desde el cliente

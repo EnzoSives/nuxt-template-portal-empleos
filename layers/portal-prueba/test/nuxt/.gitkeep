@@ -1,0 +1,11 @@
+# Test Nuxt - Tests que requieren ambiente Nuxt
+#
+# Tests que necesitan el runtime completo de Nuxt para funcionar.
+# Componentes, composables, páginas que dependen del contexto de Nuxt.
+#
+# Ejemplos:
+# - Component.test.ts (componente que usa Nuxt plugins)
+# - Page.test.ts (página que usa middleware)
+# - Composable.test.ts (composable que usa useState)
+#
+# Configuración: Vitest con project 'nuxt'

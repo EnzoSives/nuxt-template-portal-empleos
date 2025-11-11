@@ -1,0 +1,12 @@
+# Test Unit - Tests unitarios rápidos (Node)
+#
+# Tests puros que no dependen del ambiente de Nuxt.
+# Funciones utilitarias, helpers, lógica pura.
+# Se ejecutan más rápido sin cargar el runtime de Nuxt.
+#
+# Ejemplos:
+# - utils.test.ts (funciones utilitarias)
+# - helpers.test.ts (funciones helper)
+# - constants.test.ts (validación de constantes)
+#
+# Configuración: Vitest con project 'unit'
